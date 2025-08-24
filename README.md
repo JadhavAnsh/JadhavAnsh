@@ -42,11 +42,6 @@ Hi 👋, I’m **Ansh Jadhav**, a **Full Stack Developer** and **Computer Engine
 
 ---
 
-# 🚀 Featured Projects:
-🔹 **Recipe Book App** – A **React Native + Firebase** recipe sharing app. <br>  
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JadhavAnsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JadhavAnsh&theme=radical&hide_border=false)<br/>
