@@ -1,62 +1,57 @@
-# 💫 About Me:
-Hi 👋, I’m **Ansh Jadhav**, a **Full Stack Developer** and **Computer Engineering Student**.<br>  
-👨‍💻 Currently working as an **Intern** while learning **Web & Mobile App Development**.<br>  
-🌱 Exploring **MERN, Next.js, NestJS, React Native & Flutter**.<br>  
-💬 Ask me about **React, Flutter, Dart, Node.js, and Full Stack Development**.<br>  
-⚡ Passionate about building **scalable full-stack apps** and **beautiful user experiences**.
+<div align="center">
+
+# Hi, I'm Ansh Jadhav 👋
+
+### Full Stack Developer · Computer Engineering Student
+
+Building web and mobile apps with a focus on useful features and thoughtful UX.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AnshJadhav)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anshh_jadhav)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/JadhavAnsh10)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshh_jadhav) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnshJadhav) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JadhavAnsh10)  
+## About
 
----
+- 👨‍💻 Currently working as an intern while learning web and mobile app development.
+- 🌱 Exploring **MERN, Next.js, NestJS, React Native, and Flutter**.
+- 💬 Ask me about **React, Flutter, Dart, Node.js, and full-stack development**.
+- ⚡ I enjoy building scalable applications and polished user experiences.
 
-# 💻 Tech Stack:
+## Featured Projects
 
-### 🚀 Frontend  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **[Formata](https://github.com/JadhavAnsh/Formata)** — An end-to-end data transformation platform for turning scattered, messy data into clean, structured, AI-ready formats.
+- **[Chess Game](https://github.com/JadhavAnsh/chess_game)** — A two-player chess app built with Flutter.
 
-### ⚙️ Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+## Tech Stack
 
-### 🛢 Database & Hosting  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🎨 Design Tools  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
 
----
+**Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JadhavAnsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JadhavAnsh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JadhavAnsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Activity
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JadhavAnsh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JadhavAnsh&show_icons=true&hide_border=true&theme=transparent" alt="Ansh's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadhavAnsh&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=JadhavAnsh&icon=0&color=6)](https://visitcount.itsvg.in)
+</div>
